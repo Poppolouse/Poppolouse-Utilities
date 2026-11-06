@@ -7,5 +7,4 @@ riderModule.iml
 *.user
 *.suo
 TestResults/
-/tests/
 .idea/
